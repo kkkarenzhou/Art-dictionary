@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  h1= 'Search in this page'
+
+  form(method='GET')
+    div.form-group
+      label(for='word') Search: 
+      input(type='text',name='word')
+    button(type='submit') Submit
+
+  p #{word}
+  p #{define}
+  //a(href='/search/apple') apple
