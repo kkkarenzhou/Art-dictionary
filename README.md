@@ -8,5 +8,5 @@
     npm start
 3. Then load http://localhost:3000/ in your browser to access the app.
 
-![image](https://github.com/kkkarenzhou/Art-dictionary/blob/main/page1.png)
-![image](https://github.com/kkkarenzhou/Art-dictionary/blob/main/page2.png)
+![image](https://github.com/kkkarenzhou/Art-dictionary/blob/main/page1.jpg)
+![image](https://github.com/kkkarenzhou/Art-dictionary/blob/main/page2.jpg)
